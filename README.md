@@ -4,7 +4,7 @@ This GitHub repository is dedicated to Packet Tracer network simulations, which 
 # Introduction 
 
 
-# Task 5 :Configure eigrp and ospf routing in the below topology.
+# Task 5 :Configure EIGRP and OSPF routing in the below topology.
 EIGRP (Enhanced Interior Gateway Routing Protocol) and OSPF (Open Shortest Path First) are two popular routing protocols used in computer networks to facilitate communication between network devices.
 
 EIGRP is a Cisco proprietary protocol, while OSPF is an open standard protocol. EIGRP uses a hybrid routing protocol that combines features of both distance vector and link-state routing protocols. OSPF, on the other hand, is a pure link-state protocol.
