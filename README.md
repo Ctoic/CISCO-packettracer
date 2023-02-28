@@ -1,7 +1,25 @@
 # CISCO-packettracer
 This GitHub repository is dedicated to Packet Tracer network simulations, which are used to practice, learn, and test networking concepts in a virtual environment. The repository contains various network simulation projects and configurations that can be easily downloaded and imported into Packet Tracer.
 
-# Introduction 
+# Getting Started
+To get started, you will need to have Cisco Packet Tracer installed on your system. You can download the latest version of Packet Tracer from the Cisco Networking Academy website.
+
+Once you have installed Packet Tracer, you can explore the contents of this repository. The repository contains a number of directories, each of which contains resources related to a specific topic.
+
+# Directories
+The following directories are included in this repository:
+
+sample-topologies: This directory contains a set of sample network topologies that you can use to explore Packet Tracer. Each topology is provided as a Packet Tracer file and a PDF document that explains the topology and provides instructions for exploring it.
+
+scripts: This directory contains a set of scripts that you can use to automate common tasks in Packet Tracer. The scripts are written in Python and can be run from the command line.
+
+documentation: This directory contains a set of documents that provide information on using Packet Tracer. The documents include user guides, tutorials, and reference materials.
+
+# Contributing
+Contributions to this repository are welcome. If you have a Packet Tracer resource that you would like to share, please create a pull request with your changes.
+
+# License
+The resources in this repository are licensed under the MIT License. See the LICENSE file for details. 
 
 
 # Task 5 :Configure EIGRP and OSPF routing in the below topology.
