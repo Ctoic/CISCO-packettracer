@@ -21,8 +21,9 @@ Contributions to this repository are welcome. If you have a Packet Tracer resour
 # License
 The resources in this repository are licensed under the MIT License. See the LICENSE file for details. 
 
+# Practise Questions
 
-# Task 5 :Configure EIGRP and OSPF routing in the below topology.
+# Configure EIGRP and OSPF routing in the below topology.
 EIGRP (Enhanced Interior Gateway Routing Protocol) and OSPF (Open Shortest Path First) are two popular routing protocols used in computer networks to facilitate communication between network devices.
 
 EIGRP is a Cisco proprietary protocol, while OSPF is an open standard protocol. EIGRP uses a hybrid routing protocol that combines features of both distance vector and link-state routing protocols. OSPF, on the other hand, is a pure link-state protocol.
@@ -36,4 +37,23 @@ Overall, the choice between EIGRP and OSPF depends on the specific needs and req
 
 ![Output](https://user-images.githubusercontent.com/90936436/220851391-83dcfa9c-2b82-430a-9ab1-42418fb67c6f.png)
 
+
+
+
+# DHCP
+
+In our networks, all end user devices need an IP address to access the network. Static IP
+addresses are usually assigned to routers, management interfaces on switches, servers and other
+devices in the network which do not change location either physically or logically. Static IP
+addresses are also used to access and manage these devices remotely.
+On the other hand, user devices such as computers, smartphones, IP phones and others are
+likely to change their locations either physically or logically. This means that assigning them static
+IP addresses would be an unviable solution.
+DHCP is a protocol that was invented to address these problems. With DHCP, we can assign IP
+address information to user nodes automatically which saves on the administrative overhead that
+would be involved in assigning IP addressing information to clients statically.
+
+
+
+![Capture](https://user-images.githubusercontent.com/90936436/222365149-255d076f-dd71-4bfd-b43c-afe464084c45.PNG)
 
